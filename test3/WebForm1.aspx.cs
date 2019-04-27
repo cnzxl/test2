@@ -12,7 +12,7 @@ namespace test3
         protected void Page_Load(object sender, EventArgs e)
         {
             int zz=999;
-            int i = 67;
+            int i = 670;
             int b = 20;
         }
     }
