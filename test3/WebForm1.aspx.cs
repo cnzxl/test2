@@ -11,7 +11,8 @@ namespace test3
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            int i = 10;
+            int b = 20;
         }
     }
 }
