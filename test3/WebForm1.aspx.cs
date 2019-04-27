@@ -12,8 +12,8 @@ namespace test3
         protected void Page_Load(object sender, EventArgs e)
         {
             int zz=999;
-            int i = 700;
-            int b = 20;
+            int i = 70099887;
+            int b = 2000435;
         }
     }
 }
